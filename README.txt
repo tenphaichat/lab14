@@ -1,16 +1,3 @@
-================================================================================
-TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á (EAUT)
-KHOA CÔNG NGHỆ THÔNG TIN - BỘ MÔN CÔNG NGHỆ PHẦN MỀM
-HỌC PHẦN: LẬP TRÌNH .NET (IT3212)
-LAB 14: BÁO CÁO THAM SỐ, NHÓM, THỐNG KÊ VÀ XUẤT EXCEL
-================================================================================
-Sinh viên thực hiện: Phan Văn Thắng
-Mã số sinh viên    : 24002545
-Lớp học phần       : IT3212
-Ngày sinh          : 26/03/2006
-Kho lưu trữ Github : https://github.com/tenphaichat/14.git
-================================================================================
-
 1. THÔNG TIN PHIÊN BẢN CRYSTAL REPORTS, THƯ VIỆN VÀ RUNTIME SỬ DỤNG
 --------------------------------------------------------------------------------
 - Công cụ phát triển: Visual Studio 2022 / .NET 9.0 Windows Forms Desktop SDK
