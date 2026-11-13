@@ -1,0 +1,6 @@
+SAP Crystal Reports - CrystalReportDangKyHocKy.rpt
+Report Title: Báo cáo đăng ký học phần nhóm theo học kỳ
+Parameters: pHocKy (Integer)
+Group: HocKy, MaHP
+Summaries: Sum(SoLuotDangKy), Average(DiemTrungBinhMon)
+Author: Phan Văn Thắng - 24002545 - IT3212 EAUT

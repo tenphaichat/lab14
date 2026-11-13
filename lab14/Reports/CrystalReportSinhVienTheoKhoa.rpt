@@ -1,0 +1,6 @@
+SAP Crystal Reports - CrystalReportSinhVienTheoKhoa.rpt
+Report Title: Báo cáo danh sách sinh viên theo khoa (Group by TenKhoa)
+Parameters: pTenKhoa (String), pNgayLap (DateTime)
+Formulas: @SoLuongSinhVien, @TieuDeNhom, @XepLoai
+Summaries: Average(DiemTB), Max(DiemTB), Min(DiemTB)
+Author: Phan Văn Thắng - 24002545 - IT3212 EAUT

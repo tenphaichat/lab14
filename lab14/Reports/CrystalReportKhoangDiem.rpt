@@ -1,0 +1,5 @@
+SAP Crystal Reports - CrystalReportKhoangDiem.rpt
+Report Title: Báo cáo danh sách sinh viên theo khoảng điểm
+Parameters: pDiemMin (Decimal), pDiemMax (Decimal), pTenKhoa (String)
+Formulas: @XepLoai
+Author: Phan Văn Thắng - 24002545 - IT3212 EAUT

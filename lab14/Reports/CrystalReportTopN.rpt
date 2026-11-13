@@ -1,0 +1,5 @@
+SAP Crystal Reports - CrystalReportTopN.rpt
+Report Title: Báo cáo Top N sinh viên tiêu biểu theo điểm
+Parameters: pTopN (Integer), pTenKhoa (String)
+Formulas: @XepLoai, @Rank
+Author: Phan Văn Thắng - 24002545 - IT3212 EAUT
