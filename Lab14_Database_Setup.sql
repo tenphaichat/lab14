@@ -1,10 +1,3 @@
--- ===================================================================
--- LAB 14: BÁO CÁO THAM SỐ, NHÓM, THỐNG KÊ VÀ XUẤT EXCEL
--- Học phần: Lập trình .NET (IT3212) - EAUT
--- Sinh viên: Phan Văn Thắng - MSSV: 24002545 - Lớp: IT3212
--- CSDL: QLSinhVien ((localdb)\MSSQLLocalDB)
--- ===================================================================
-
 USE QLSinhVien;
 GO
 
